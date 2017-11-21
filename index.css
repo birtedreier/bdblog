@@ -9,10 +9,6 @@ img.logo {
     margin-right: auto 
 }
 
-body {
-  display: inline-block;
-}
-
 .birte {
     width: 300px;
     height: 300px;
@@ -20,6 +16,7 @@ body {
     padding: 25px;
     margin: 25px;
     text-align: center;
+    display: inline-block;
 }
 
 .ben {
@@ -29,6 +26,7 @@ body {
     padding: 25px;
     margin: 25px; 
     text-align: center;
+    display: inline-block;
 }
 
 .nicki {
@@ -38,6 +36,7 @@ body {
     padding: 25px;
     margin: 25px; 
     text-align: center;
+    display: inline-block;
 }
 
 .title {
