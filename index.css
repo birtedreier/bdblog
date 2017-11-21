@@ -1,8 +1,9 @@
 header {
   background-color: white;
-  text-align: center:
+  text-align: center;
 }
-IMG.displayed {
+.logo {
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto 
+}
