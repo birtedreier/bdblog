@@ -32,3 +32,8 @@ img.logo {
     padding: 25px;
     margin: 25px; 
 }
+
+h1.title (
+    text-align: center;
+    font-family: "amatic sc";
+)
