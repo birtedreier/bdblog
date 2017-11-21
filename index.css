@@ -16,6 +16,8 @@ img.logo {
     padding: 25px;
     margin: 25px;
     text-align: center;
+    display: inline-block;
+    clear: both;
 }
 
 .ben {
