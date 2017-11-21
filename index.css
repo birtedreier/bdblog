@@ -2,3 +2,7 @@ header {
   background-color: white;
   text-align: center;
 }
+IMG.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
