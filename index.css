@@ -14,7 +14,8 @@ img.logo {
     height: 300px;
     border: 25px solid green;
     padding: 25px;
-    margin: 25px; 
+    margin: 25px;
+    text-align: center;
 }
 
 .ben {
@@ -23,6 +24,7 @@ img.logo {
     border: 25px solid red;
     padding: 25px;
     margin: 25px; 
+    text-align: center;
 }
 
 .nicki {
@@ -31,9 +33,9 @@ img.logo {
     border: 25px solid blue;
     padding: 25px;
     margin: 25px; 
+    text-align: center;
 }
 
 .title (
-    text-align: center;
     font-family: 'amatic sc';
 )
