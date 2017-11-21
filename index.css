@@ -9,6 +9,10 @@ img.logo {
     margin-right: auto 
 }
 
+div {
+  display: inline-block;
+}
+
 .birte {
     width: 300px;
     height: 300px;
