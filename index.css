@@ -7,3 +7,24 @@ img.logo {
     margin-left: auto;
     margin-right: auto 
 }
+Birte {
+    width: 300px;
+    height: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px; 
+}
+Ben {
+    width: 300px;
+    height: 300px;
+    border: 25px solid red;
+    padding: 25px;
+    margin: 25px; 
+}
+Nicki {
+    width: 300px;
+    height: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px; 
+}
