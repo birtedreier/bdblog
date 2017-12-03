@@ -3,6 +3,13 @@ header {
   text-align: center;
 }
 
+body {
+  background-image: url ("http://www.tourismus.alb-donau-kreis.de/sites/default/files/ausflugziel/Ponyhof_Machtolsheim.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
 img.logo {
     display: block;
     background-color: white;
@@ -31,7 +38,6 @@ img.logo {
   border: 25px solid blue;
   background-image: url("assets/Ben.png");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center; 
 }
 
