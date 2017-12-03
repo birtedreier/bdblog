@@ -35,8 +35,22 @@ img.logo {
 }
 
 .ben {
-  border: 25px solid blue;
+  border: 25px solid red;
   background-image: url("assets/Ben.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.birte {
+  border: 25px solid light-blue;
+  background-image: url("assets/Birte.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.nicki {
+  border: 25px solid yellow;
+  background-image: url("assets/Nicki.png");
   background-repeat: no-repeat;
   background-position: center; 
 }
