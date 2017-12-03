@@ -11,34 +11,19 @@ img.logo {
 }
 
 .box {
-    width: 300px;
-    height: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
-    vertical-align: baseline;
+  border: 25px solid green;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  padding: 25px auto;
+  margin: 5px;
+  text-align: center;
 }
 
-.ben {
-    width: 300px;
-    height: 300px;
-    border: 25px solid red;
-    padding: 25px;
-    margin: 25px; 
-    text-align: center;
-    display: inline-block;
-}
-
-.nicki {
-    width: 300px;
-    height: 300px;
-    border: 25px solid blue;
-    padding: 25px;
-    margin: 25px; 
-    text-align: center;
-    display: inline-block;
+#characterboard {
+  position: relative;
+  text-align: center;
+  top: 30px;
 }
 
 .title {
