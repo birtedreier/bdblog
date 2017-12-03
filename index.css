@@ -10,6 +10,12 @@ img.logo {
     margin-right: auto;
 }
 
+#characterboard {
+  position: relative;
+  text-align: center;
+  top: 30px;
+}
+
 .box {
   border: 25px solid green;
   display: inline-block;
@@ -21,10 +27,9 @@ img.logo {
   overflow: hide;
 }
 
-#characterboard {
-  position: relative;
-  text-align: center;
-  top: 30px;
+.ben {
+  border: 25px solid blue;
+  background-image: url ("assets/Ben.png");
 }
 
 .title {
