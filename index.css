@@ -18,6 +18,7 @@ img.logo {
   padding: 25px auto;
   margin: 5px;
   text-align: center;
+  overflow: hide;
 }
 
 #characterboard {
