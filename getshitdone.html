@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Get Sh*t Done</title>
+	<link rel="stylesheet" type="text/css" href="getshitdone.css">
+	<link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
+</head>
+<body>
+	<div class="section">
+		<h1>Get Sh*t Done</h1>
+		<div class="circle"></div>
+		<div>
+			<button href="#newTodo">Add New Todo</button>
+			<button href="#todoList">See Todo List</button>
+		</div>
+	</div>
+
+<!-- 	<div class="section">
+		<h5>What would you like to do?</h5>
+		<div>
+			<button href="#newTodo">Add New Todo</button>
+			<button href="#todoList">See Todo List</button>
+		</div>
+	</div>
+ -->
+	<div class="section" id="newTodo">
+		<div>
+			<h5>What sh*t needs doing?</h5>
+				<input type="text" name="todo" id="todoText" placeholder="Type something here" required>
+		</div>
+
+<!-- 		<div>
+			<h5>By when?</h5>
+			<fieldset>
+				<input type="date" name="duedate" id="dueDate">
+				<input type="time" name="duetime" id="dueTime">
+			</fieldset>
+		</div>
+
+		<div>
+			<h5>When shall we remind you?</h5>
+			<fieldset>
+				<div>
+					<input type="checkbox" name="reminder" id="reminderDay">
+					<label for="reminderDay">1 day before</label>
+				</div>
+				<div>
+					<input type="checkbox" name="reminder" id="reminderThree">
+					<label for="reminderThree">3 hours before</label>
+				</div>
+				<div>
+					<input type="checkbox" name="reminder" id="reminderHour">
+					<label for="reminderHour">1 hour before</label>
+				</div>
+			</fieldset>
+		</div> -->
+		<button id="addNewTodo">Add Todo</button>
+	</div>
+
+	<div class="section" id="todoList">
+		<p></p>
+	</div>
+	<script type="text/javascript" src="getshitdone.js"></script>
+</body>
+</html>
