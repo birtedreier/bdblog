@@ -1,0 +1,60 @@
+header {
+  background-color: white;
+  text-align: center;
+}
+
+body {
+  background-image: url("http://www.tourismus.alb-donau-kreis.de/sites/default/files/ausflugziel/Ponyhof_Machtolsheim.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+img.logo {
+    display: block;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#characterboard {
+  position: relative;
+  text-align: center;
+  top: 30px;
+}
+
+.box {
+  border: 25px solid green;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  padding: 25px auto;
+  margin: 5px;
+  text-align: center;
+  overflow: hide;
+}
+
+.ben {
+  border: 25px solid red;
+  background-image: url("assets/Ben.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.birte {
+  border: 25px solid lightblue;
+  background-image: url("assets/Birte.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.nicki {
+  border: 25px solid yellow;
+  background-image: url("assets/Nicki.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.title {
+    font-family: 'amatic sc';
+}
